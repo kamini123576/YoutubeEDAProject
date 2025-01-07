@@ -1,5 +1,4 @@
-# YoutubeEDAProject
-
+# "YouTube Channels Dataset: Exploratory Data Analysis (EDA) Project
 **Overview** <br>
 
 This project performs Exploratory Data Analysis (EDA) on a dataset containing information about YouTube channels. The dataset includes columns such as Rank, Grade, Channel Name, Video Uploads, Subscribers, Video Views, and more. The goal is to clean the data, analyze key metrics, and derive meaningful insights regarding channel performance and grading.
